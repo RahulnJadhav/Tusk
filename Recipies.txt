@@ -4,9 +4,18 @@ Welcome to my Kitchen
 1.Menu
 2.Pasta
 3.Chicken Fry
+4.Beans
+5.Pizza
 
 
 
 Thank you
 
+
+
+Done
+
 Final copy
+
+
+could have changes
